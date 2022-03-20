@@ -3,15 +3,6 @@ root = true
 [*.md]
 trim_trailing_whitespace = false
 
-[*.js]
-trim_trailing_whitespace = true
-
-[*.ts]
-trim_trailing_whitespace = true
-
-[*.tsx]
-trim_trailing_whitespace = true
-
 [*]
 indent_style = space
 indent_size = 2
