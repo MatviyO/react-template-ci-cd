@@ -41,6 +41,10 @@
   ],
   "rules": {
     // airbnb
+    "react/jsx-max-props-per-line": [2, { "maximum": 1 }],
+    "react/jsx-indent-props": [2, 2],
+    "react/jsx-first-prop-new-line": [2, "multiline"],
+    "import/prefer-default-export": 0,
     "react/jsx-filename-extension": [
       1,
       {
